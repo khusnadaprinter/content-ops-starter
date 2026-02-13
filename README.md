@@ -1,6 +1,6 @@
-# Content Ops Starter
+# Khusnada Printer 
 
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
+![Khusnada Printer](https://khusnadaprinter)
 
 Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
